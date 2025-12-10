@@ -63,5 +63,4 @@ CITRA-APP-OPERATION-BINER/
 ├── GUI/         — Folder containing GUI screenshots
 │     └── GUI.png
 │
-├── LAPORAN PRAKTIKUM OPERASI BINER.pdf
 └── README.md
