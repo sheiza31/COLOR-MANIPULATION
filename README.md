@@ -26,10 +26,10 @@ Below is a preview of the application interface:
 
 | Operation | Description |
 |----------|-------------|
-| **COLORINVERSION**  | Inverts each pixel (binary negation) |
-| **BRIGHTNESS**  | Combines two images using bitwise AND |
-| **REDGAIN**   | Combines two images using bitwise OR |
-| **HSV**  | Highlights differences using bitwise XOR |
+| **COLORINVERSION**  |  Inverts the colors of the image by reversing the intensity of each RGB channel. |
+| **BRIGHTNESS**  | Adjusts the overall brightness by increasing or decreasing RGB pixel values.  |
+| **REDGAIN**   |  Enhances the red channel to make red tones more dominant in the image. |
+| **HSV**  | Modifies the image colors by converting RGB to HSV and adjusting hue, saturation, or value. |
 ---
 
 ## 🚀 Getting Started
